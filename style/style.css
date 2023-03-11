@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-section {
+    background-image: url(/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 809px;
+    position: relative;
+    background-position: center;
+
+}
+
+.heading-font {
+    position: absolute;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin: 216px 230px 365px 845px;
+    color: #151414;
+}
+
+.heading-pra {
+    position: absolute;
+    margin: 468px 230px 263px 876px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.primary-btn {
+    position: absolute;
+    background-color: #F15B22;
+    color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    border: 0 solid;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 578px 230px 167px 1210px;
+}
+
+.second-pra {
+    display: flex;
+    gap: 87px;
+    margin: 130px 322px 130px 206px;
+    align-items: center;
+}
+
+.year {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.year-pra {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 18px;
+}
+
+.check {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.mark-check {
+    color: #16D887;
+}
+
+.plan-sec {
+    margin: 130px 230px;
+}
+
+.plan-st {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.plan {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.web {
+    font-weight: 700;
+    font-size: 30px;
+    padding: 16px;
+}
+
+.plan-h3 {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+}
+
+.watch-sec {
+    margin: 130px 230px;
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.img-wa {
+    display: flex;
+}
+
+.keep {
+    font-weight: 700;
+    font-size: 40px;
+    color: #ffffff;
+    position: absolute;
+    margin-top: 59px;
+    padding-left: 64px;
+}
+
+.call-btn {
+    position: absolute;
+    color: #F15B22;
+    padding: 21px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0 solid;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-top: 150px;
+    margin-left: 64px;
+}
